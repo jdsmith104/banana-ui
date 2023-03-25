@@ -1,0 +1,7 @@
+{
+  "name": "bananaApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
